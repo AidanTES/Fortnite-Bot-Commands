@@ -1,2 +1,4 @@
-# Fortnite-Bot-Commands
-Commands
+# Fortnite KWY_Bot Commands
+# Commands:
+
+!skin [Skin] 
