@@ -344,6 +344,14 @@ Gives the bot the ninja skin
 Example: !ninja
 ```
 
+!johnwick
+```
+Equips the Reaper does take the l then orange justice
+```
+```
+Example: !johnwick
+```
+
 !ponpon
 ```
 Makes the bot do ninja's Ninja Style emote.
@@ -403,7 +411,7 @@ Example: !goldenpeely
 
 !random
 ```
-Bot equips a random skin
+Bot equips a random skin and does a random dance
 ```
 ```
 Example: !random
@@ -457,4 +465,4 @@ Makes the bot join a party (Don't abuse or you'll be banned from the bot)
 Example: !join [user (Leave blank for the bot to join you)]
 ```
 
-Thanks for reading 460 lines :) Have a good day.
+Thanks for reading 466 lines :) Have a good day.
